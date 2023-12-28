@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+Interactive Tic Tac Toe game using a combination of HTML for structuring, CSS for styling, and JavaScript for dynamic and responsive functionality. Players can engage in a classic game of Tic Tac Toe, experiencing a visually appealing and user-friendly interface. The game employs logical algorithms to determine wins, or draws, providing an enjoyable and challenging experience for users.
